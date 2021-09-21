@@ -8,4 +8,5 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
-file:///C:/Users/sjerm/Downloads/ProjectDemo.pdf#page=1&zoom=auto,-211,411
+
+https://raw.githubusercontent.com/LaunchCodeLiftoffProjects/zachary-group-a/main/ProjectDemo.pdf
